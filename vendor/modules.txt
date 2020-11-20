@@ -19,7 +19,7 @@ golang.org/x/sys/unix
 golang.org/x/sys/windows
 # golang.org/x/term v0.0.0-20191110171634-ad39bd3f0407
 golang.org/x/term
-# mvdan.cc/sh/v3 v3.2.1-0.20201118115053-26fb5a67b376
+# mvdan.cc/sh/v3 v3.2.1-0.20201119150001-9becc72e506e
 ## explicit
 mvdan.cc/sh/v3/expand
 mvdan.cc/sh/v3/interp
